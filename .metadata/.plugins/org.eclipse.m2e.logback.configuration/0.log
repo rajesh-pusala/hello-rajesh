@@ -398,3 +398,7 @@
 2016-07-07 13:53:38,262 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2016-07-07 13:53:38,267 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2016-07-07 13:53:38,269 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hello-rajesh\webhooks\src\test\resources
+2016-07-07 13:58:22,275 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:58:22,276 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-07 13:58:22,278 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-07 13:58:22,279 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hello-rajesh\webhooks\src\test\resources
